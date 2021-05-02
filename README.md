@@ -1,10 +1,9 @@
 # Three.js Boilerplate Application
-https://github.com/isakurbanov744/three-js-application
 
 ## Introduction
 Basic Three JS Starter project
 
-## Getting started
+## Instructions:
 Install dependencies:
 
 ```
@@ -17,7 +16,7 @@ Developer Server:
 npm run dev
 ```
 
-Spins up a webpack dev server at localhost:8080 and keeps track of all js and sass changes to files.
+Developer server opens at: localhost:8080
 
 ## Build
 ```
